@@ -10,8 +10,8 @@ This repository documents my class work and projects done for **CPS342**
    
    ID: *[N03498456](https://github.com/N03498456)*
    
-   Year: *Senior* 
+   Year: *Senior*
   
 2. **Class Start Date:** Jan 22, 2018
 
-3. **Class End Date:** May 8,2018
+3. **Class End Date:** May 8, 2018
